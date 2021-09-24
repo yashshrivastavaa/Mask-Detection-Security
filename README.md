@@ -63,5 +63,5 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 $ python3 detect_mask_video.py 
 ```
 
-## Feedback & Suggestion
+##  📝  Feedback & Suggestion
 [Click Here](https://forms.gle/7LxP9ffcgfKq2jDt8) for feedback & Suggestion
