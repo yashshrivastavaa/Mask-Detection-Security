@@ -22,7 +22,7 @@ This dataset consists of __3339 images__ belonging to two classes:
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/yashshrivastavaa/Mask-Detection-Security/blob/main/requirements.txt)
 
-## 🚀&nbsp; Installation
+## 🚀  Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
