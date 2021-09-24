@@ -66,7 +66,6 @@ $ python3 detect_mask_video.py
 ##  📝  Feedback & Suggestion
 [Click Here](https://forms.gle/7LxP9ffcgfKq2jDt8) for feedback & Suggestion
 
-<h1 align="center">About Us</h1>
 
 
 
