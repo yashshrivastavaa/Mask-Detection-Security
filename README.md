@@ -79,14 +79,14 @@ My name is **YASH SHRIVASTAVA**. At present I am pursuing my degree in *Bachelor
   
 </div>
  
-My name is **PUPUL BHATNAGAR**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication* from *Lakshmi Narain College of Technology Excellence, Bhopal*. My current CGPA is 8.42. I have done my schooling from Carmel Convent Senior Secondary School B.H.E.L. Bhopal (M.P.). I am able to handle multiple tasks on a daily basis and eager to learn new skills. Passionate to learn new skills and create by contribution towards the service. 
+My name is **PUPUL BHATNAGAR**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication* from *Lakshmi Narain College of Technology Excellence, Bhopal*. My current CGPA is 8.42. I have done my schooling from Carmel Convent Senior Secondary School B.H.E.L. Bhopal (M.P.). I am able to handle multiple tasks on a daily basis and eager to learn new skills. Passionate to learn new skills and create by contribution towards the service. [See Profile](https://www.linkedin.com/in/pupul-bhatnagar-19b3821bb/)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align= "center"><img src="Project Documentation/Contributers/My Image 2.jpg" width="300" height="300"/>
   
 </div>
 
-My name is **SIMI KUSHWAHA**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication Engineering* from *Lakshmi Narain College of Technology Excellence, Bhopal*.  My current CGPA is 8.55. I have done my schooling from St. George Sr. Sec School Bhopal (M.P.). I’ve an optimistic mindset and do not shy away from hard work and dense deadlines and have lunacy towards the goals.
+My name is **SIMI KUSHWAHA**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication Engineering* from *Lakshmi Narain College of Technology Excellence, Bhopal*.  My current CGPA is 8.55. I have done my schooling from St. George Sr. Sec School Bhopal (M.P.). I’ve an optimistic mindset and do not shy away from hard work and dense deadlines and have lunacy towards the goals. [See Profile](https://www.linkedin.com/in/simi-kushwaha-742513176/)
 
 
 
