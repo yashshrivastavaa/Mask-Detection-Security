@@ -24,49 +24,62 @@ All the dependencies and required libraries are included in the file <code>requi
 
 ## 🚀  Installation
 1. Clone the repo
-```
+```python
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
 ```
 
 2. Change your directory to the cloned repo 
-```
+```python
 $ cd Face-Mask-Detection
 ```
-
 3. Create a Python virtual environment named 'test' and activate it
-```
+```python
 $ virtualenv test
 ```
-```
+```python
 $ source test/bin/activate
 ```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
+```python
 $ pip3 install -r requirements.txt
 ```
 
 ## 💡 Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
-```
+```python
 $ python3 train_mask_detector.py --dataset dataset
 ```
 
 2. To detect face masks in an image type the following command: 
-```
+```python
 $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 
 3. To detect face masks in real-time video streams type the following command:
-```
+```python
 $ python3 detect_mask_video.py 
 ```
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h1 align="center">About Us</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align= "center"><img src="Project Documentation/Contributers/My Image.jpg" width="300" height="300"/>
 
-<div align= "center"><img src="https://github.com/yashshrivastavaa/Mask-Detection-Security/tree/main/Project%20Documentation/Contributers" width="200" height="200"/>
+</div> 
 
+
+My name is **YASH SHRIVASTAVA**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication Engineering* from *Lakshmi Narain College of Technology Excellence, Bhopal*. My current CGPA is 9.3. I have done my schooling Panini Jnanpeeth School (M.P.). I have excellent problem-solving skills and ability to perform well in a team. Passionate of coding and contribute for the best with my skills for my service. Work to Achieve the Highest Goal. [See Profile](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/) 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align= "center"><img src="Project Documentation/Contributers/My Image 3.jpg" width="300" height="300"/>
+</div>
+ 
+My name is **PUPUL BHATNAGAR**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication* from *Lakshmi Narain College of Technology Excellence, Bhopal*. My current CGPA is 8.42. I have done my schooling from Carmel Convent Senior Secondary School B.H.E.L. Bhopal (M.P.). I am able to handle multiple tasks on a daily basis and eager to learn new skills. Passionate to learn new skills and create by contribution towards the service. 
+ 
 ##  📝  Feedback & Suggestion
 [Click Here](https://forms.gle/7LxP9ffcgfKq2jDt8) for feedback & Suggestion
 
