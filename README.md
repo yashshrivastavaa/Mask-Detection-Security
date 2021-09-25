@@ -63,6 +63,10 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 $ python3 detect_mask_video.py 
 ```
 
+<h1 align="center">About Us</h1>
+
+<div align= "center"><img src="https://github.com/yashshrivastavaa/Mask-Detection-Security/tree/main/Project%20Documentation/Contributers" width="200" height="200"/>
+
 ##  📝  Feedback & Suggestion
 [Click Here](https://forms.gle/7LxP9ffcgfKq2jDt8) for feedback & Suggestion
 
