@@ -1,8 +1,8 @@
 <h1 align="center">Mask-Detection-Security</h1>
 
-“A Deep Learning Based Model For Detecting Mask Over Face In Public Places To Curtail Community Spread Of Covid-19 Is Presented”
+**“A Deep Learning Based Model For Detecting Mask Over Face In Public Places To Curtail Community Spread Of Covid-19 Is Presented”**
 
-<div align= "center"><img src="https://github.com/yashshrivastavaa/Mask-Detection-Security/blob/main/LOGO/Logo.png" width="200" height="200"/>
+<div align= "center"><img src="https://github.com/yashshrivastavaa/Mask-Detection-Security/blob/main/LOGO/Logo.png" width="300" height="300"/>
   <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 </div>  
   
