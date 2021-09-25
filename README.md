@@ -33,6 +33,8 @@ My name is **PUPUL BHATNAGAR**. At present I am pursuing my degree in *Bachelor 
 
 My name is **SIMI KUSHWAHA**. At present I am pursuing my degree in *Bachelor of Technology in Electronics and Communication Engineering* from *Lakshmi Narain College of Technology Excellence, Bhopal*.  My current CGPA is 8.55. I have done my schooling from St. George Sr. Sec School Bhopal (M.P.). I’ve an optimistic mindset and do not shy away from hard work and dense deadlines and have lunacy towards the goals. [See Profile](https://www.linkedin.com/in/simi-kushwaha-742513176/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## :star: Features
 Our face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 
