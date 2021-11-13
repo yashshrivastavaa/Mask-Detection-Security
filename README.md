@@ -54,7 +54,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀  Installation
 1. Clone the repo
 ```python
-https://github.com/yashshrivastavaa/Mask-Detection-Security.git
+$ git clone https://github.com/yashshrivastavaa/Mask-Detection-Security.git
 ```
 2. Change your directory to the cloned repo 
 ```python
